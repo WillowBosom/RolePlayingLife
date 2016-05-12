@@ -1,0 +1,11 @@
+NOME: RPL - Role Playing Life
+===============================================
+Proposta:
+	O aplicativo transforma a vida do usuário em um RPG para organizar sua vida. O Usuário adicionará suas tarefas diárias (como dever de casa, para um estudante), e ganhará experiência e gold de acordo com seu sucesso em suas tarefas, que são transformadas em missões (quests).
+O diferencial do app é sua dinâmica. O usuário criará seu personagem e lutará contra vários Boss (Chefes), mas para tal, precisará de equipamentos que serão conseguidos a partir da loja, comprados com o dinheiro conseguido nas tarefas.
+Um grande incentivo será o PvP, onde um usuário poderá lutar contra outro, gerando competitividade e e vontade de completar suas tarefas diárias. Caso o usuário não faça suas missões, começará a perder "reputação", dinheiro e HP.
+O app terá alguns templates de tarefas, como dever de casa, exercitar, meditar, e outros.
+	Haverá um sistema de Skills - que serão aprimoradas de acordo com suas tarefas - e terão um retorno direto ou indireto em seus atributos. Por exemplo, uma pessoa que correr durante 30 minutos terá sua resistência aumentada, fazendo com que tenha um pequeno aumento em seu HP.
+	Possivelmente, haverá séries de Bosses como "Os Dozes Zodíacos" ou "Monstros Marítmos" e um mapa da progressão do Usuário.
+	Sistemas de guildas, as quais só poderão ser jogadas por jogadores que se conhecem fisicamente. Isso terá um sistema de validação através de Facebook ou ID (a ser pensado).
+
