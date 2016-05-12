@@ -1,0 +1,36 @@
+Logar
+Cadastrar
+Criar personagem (selecionar psg)
+selecionar classe
+customizar
+inserir nome do psg
+add tarefa
+configurar tarefa
+cancelar tarefa
+concluir tarefa
+abrir loja
+comprar item
+vender item
+fechar loja
+abrir inventario
+mexer no inventario
+fechar inventario
+abrir perfil (atributos)
+abrir mapa da jornada
+selecionar série
+criar guilda
+abrir guilda
+apply em guilda
+sair da guilda
+encontrar amigo
+adicionar amigo
+excluir amigo
+add amigo à guilda
+transmissão push to talk em tempo real (a analisar possibilidade)
+entrar em batalha
+selecionar ação
+	atacar
+		selecionar ataque
+	fugir
+	inventário
+
