@@ -7,6 +7,7 @@
 		<provider>org.hibernate.ejb.HibernatePersistence</provider>
 		<class>br.com.herbertrausch.domain.Pais</class>
 		<class>br.com.herbertrausch.domain.Usuario</class>
+		<class>br.com.herbertrausch.domain.Amigo</class>
 		
 		<properties>
 			<property name="javax.persistence.jdbc.url"

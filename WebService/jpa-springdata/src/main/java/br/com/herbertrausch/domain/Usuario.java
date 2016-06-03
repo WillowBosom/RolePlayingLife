@@ -19,8 +19,6 @@ public class Usuario implements Serializable {
 	private String login;
 	private String senha;
 	private String email;
-	private String tarefa;
-	private String amigo;
 	private String guilda;
 	
 	
@@ -47,18 +45,6 @@ public class Usuario implements Serializable {
 	}
 	public void setEmail(String email) {
 		this.email = email;
-	}
-	public String getTarefa() {
-		return tarefa;
-	}
-	public void setTarefa(String tarefa) {
-		this.tarefa = tarefa;
-	}
-	public String getAmigo() {
-		return amigo;
-	}
-	public void setAmigo(String amigo) {
-		this.amigo = amigo;
 	}
 	public String getGuilda() {
 		return guilda;
