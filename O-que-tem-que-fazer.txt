@@ -2,7 +2,9 @@ O que tem que fazer:
 
 CONCERTAR TARVERNA
 Revisar tudo
-Refazer compra
+Refazer compra resource
+Refazer mapa resource
+Refazer taverna resource
 
 O que ta feito:
 Amigo
