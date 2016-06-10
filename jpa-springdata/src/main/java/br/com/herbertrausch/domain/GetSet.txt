@@ -1,0 +1,20 @@
+
+
+public [tipo] get[atributo]() {
+		return [atributo];
+	}
+public void set[atributo]([tipo] atributo) {
+		this.[atributo] = [atributo];
+		
+		Substituir [tipo] pelo tipo. Exemplo: Long, Int, String... Colocar SEM colcheias.
+		Substituir [atributo] pelo atributo/objeto. Geralmente é idNomeDoQueVoceQuiser
+		
+		
+	
+	=== USE ISSO PARA DAR CTRL+C E CTRL+V!! ===
+	
+	public Long getIdRPG() {
+		return idRPG;
+	}
+	public void setIdRPG(Long idRPG) {
+		this.idRPG = idRPG;
