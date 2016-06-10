@@ -1,3 +1,19 @@
+O que tem que fazer:
+
 Tabela Compra
-Tabela Item
+Tabela Item 
 Tirar Venda
+Chaves estrangeiras em loja de Item
+Revisar tudo
+
+O que ta feito:
+Amigo
+Guilda
+Loja
+Party
+Taverna
+Usuário
+
+O que está em progresso:
+Mapa
+Compra
