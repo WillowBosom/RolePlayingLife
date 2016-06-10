@@ -1,9 +1,6 @@
 O que tem que fazer:
 
-Tabela Compra
-Tabela Item 
-Tirar Venda
-Chaves estrangeiras em loja de Item
+CONCERTAR TARVERNA
 Revisar tudo
 
 O que ta feito:
@@ -14,3 +11,4 @@ Taverna
 Usuário
 Mapa
 Item
+Compra
