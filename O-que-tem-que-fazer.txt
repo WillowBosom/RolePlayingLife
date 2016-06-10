@@ -9,11 +9,8 @@ Revisar tudo
 O que ta feito:
 Amigo
 Guilda
-Loja
 Party
 Taverna
 Usuário
-
-O que está em progresso:
 Mapa
-Compra
+Item
